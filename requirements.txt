@@ -1,3 +1,5 @@
 psutil
 pypiwin32
 subprocess
+smtplib
+module
